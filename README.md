@@ -1,1 +1,1 @@
-# QR-Generator
+The QR Generator project aims to create a simple web-based application that allows users to generate QR codes from various types of data. The application will be developed using HTML, CSS, and JavaScript to provide a user-friendly interface and seamless QR code generation.
